@@ -55,6 +55,9 @@
                                          <li>
                                             <a href="#">New Location</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Minneapolis</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
